@@ -1,0 +1,19 @@
+{
+    "options": {
+        "name": "People in Technology - Example Quiz",
+        "timePerSetInSeconds": 30,
+        "questionsInRandomOrder": false,
+        "helpButtonEnabled": false,
+        "showCorrectIncorrectAnswer": false
+    },
+	"sets": [
+		[
+			{"question": "What year was google founded in?", "answers": ["1998", "2000", "1999", "1996"], "correct": 0, "imageURL": "https://www.freepnglogos.com/uploads/new-google-logo-transparent--14.png"},
+			{"question": "Who is the CEO of Amazon?", "answers": ["Larry Page", "Sergey Brin", "Jeff Bezos", "Tim Cook"], "correct": 2, "imageURL": "https://i.imgur.com/VRoCqW7.png"}
+		],
+		[
+			{"question": "What color?", "answers": ["1967", "1970", "1940", "1960", "Test", "a", "b"], "correctAnswers": [3,4]},
+			{"question": "What day?", "answers": ["2008", "2010", "2011", "2012", "3012", "k", "l"], "correct": 2}
+		]
+	]
+}
